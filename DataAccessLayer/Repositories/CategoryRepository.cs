@@ -25,12 +25,32 @@ namespace DataAccessLayer.Repositories
             throw new NotImplementedException();
         }
 
+        public void Delete(Category t)
+        {
+            throw new NotImplementedException();
+        }
+
         public Category GetById(int Id)
         {
             throw new NotImplementedException();
         }
 
+        public List<Category> GetListAll()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Insert(Category t)
+        {
+            throw new NotImplementedException();
+        }
+
         public List<Category> ListAllCategory()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update(Category t)
         {
             throw new NotImplementedException();
         }
